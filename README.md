@@ -28,10 +28,6 @@ R libraries is required:
 - rgdal
 - optparse
 
-## Usage
-
-An example for the usage will follow shortly!
-
 ## Reference
 
 We build our implementation on [tf_unet](https://github.com/jakeret/tf_unet) and made some adjustments 
